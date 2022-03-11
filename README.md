@@ -88,7 +88,7 @@ Since Microsoft has no prior movie industry experience, and, therefore, no intel
 
  A budget tier system gives Microsoft a clear path to follow, based on their preferences. 
  
- The tiers are classified into High, Medium and Low that we acquired through statistical analysis of production costs in the last 20 years.
+ The tiers are classified into High, Medium and Low that we acquired through statistical analysis of production costs of all movies in the last 20 years.
 
 Once the genre has been decided, where would the stakeholder acquire their intellectual property necessary for a reboot that they don’t own the rights to? 
 
