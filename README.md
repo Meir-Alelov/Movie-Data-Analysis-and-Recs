@@ -56,7 +56,7 @@ There are numerous factors and moving parts which must be taken into considerati
 * **Source** : [The Number](https://www.the-numbers.com/) dataset is provided to us by Flatiron school.A compressed version of the data file is available in the project repo in the folder "zippedData".
 * **Contents** : Data about movies' production budget along with release date, domestic gross and worldwide gross
 
-### Visualisations
+### Visualizations
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboots.png?raw=true)
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboot_decades.png?raw=true)
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/genre.png?raw=true)
@@ -90,7 +90,7 @@ Additionally, these reboots happen to be even more profitable than original film
 Once the first recommendation is accepted, the second recommendation provides the next step. 
 
 After deciding that rebooting hit films from the 80’s and 90’s is the way to go, one must ascertain the next step. *Which genre?*
-Through analyzing popularity and ROI for specific genres, our findings show that adventure, fantasy, scifi, action, family, and animation are the most popular genres. 
+Through analyzing popularity and ROI for specific genres, our findings show that adventure, fantasy, sci-fi, action, family, and animation are the most popular genres. 
 
 **Exploring the popularity of genres gives our key stakeholders a direction.**
 
@@ -112,7 +112,7 @@ Fiscal data analysis points us in the direction of specific movie studios, based
 
 **The more valuable a movie studio, the more expensive their IP is.**
 
-Furthermore, the most produced genres in our recommended studios allign with our genre popularity finding. 
+Furthermore, the most produced genres in our recommended studios align with our genre popularity finding. 
 
 
 
