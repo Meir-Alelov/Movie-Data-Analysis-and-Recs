@@ -1,4 +1,4 @@
-/Users/meiralelov/Documents/Flatiron/Project/HAM-project1/best-movie-studios-ever-1.png
+
 
 ![Movie studios image](https://support.musicgateway.com/wp-content/uploads/2021/07/best-movie-studios-ever-1.png)
 
