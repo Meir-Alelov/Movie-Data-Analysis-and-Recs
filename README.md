@@ -76,8 +76,7 @@ Additionally, these reboots happen to be even more profitable than original film
 Once the first recommendation is accepted, the second recommendation provides the next step. 
 
 After deciding that rebooting hit films from the 80’s and 90’s is the way to go, one must ascertain the next step. *Which genre?*
-
-(SKIP) Through analyzing popularity and ROI for specific genres, our findings show that adventure, fantasy, scifi, action, family, and animation are the most popular genres. 
+Through analyzing popularity and ROI for specific genres, our findings show that adventure, fantasy, scifi, action, family, and animation are the most popular genres. 
 
 **Exploring the popularity of genres gives our key stakeholders a direction.**
 
@@ -92,7 +91,7 @@ A budget tier system gives Microsoft a clear path to follow in IP acquisition, b
  
 The tiers are classified into High, Medium and Low. These figures were acquired through statistical analysis of production costs of all movies in the last 20 years.
 
-(SKIP) Through further data analysis, we conclude that Microsoft should acquire their intellectual property from the following movie studios:
+Through further data analysis, we conclude that Microsoft should acquire their intellectual property from the following movie studios:
 Walt Disney, Buena Vista, Universal Pictures, Warner Brothers, 21st Century Fox, Paramount Pictures.
 
 Fiscal data analysis points us in the direction of specific movie studios, based on their associated value. 
