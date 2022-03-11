@@ -43,9 +43,7 @@ There are numerous factors and moving parts which must be taken into considerati
 
 ## DATA UNDERSTANDING AND ANALYSIS
 
-#### **bom.movie_gross.csv**
-* **Source** : This [Box office mojo](https://www.boxofficemojo.com/) dataset was provided to us by Flatiron school. A compressed version of the data file is available in the project repo in the folder "zippedData"
-* **Contents** : Data about movies' domestic and international gross profit along with the name of studio production and release year
+
 #### **rotten_tomatoes_movies.csv**
 * **Source** : This RottenTomatoes dataset comes from [Kaggle](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_critic_reviews.csv)
 * **Contents** : Data about movies including their synopsis, rating, genre, director, writer, release data in theatre, release data on DVD, Box office rental profit, length of movie and studio of production.
