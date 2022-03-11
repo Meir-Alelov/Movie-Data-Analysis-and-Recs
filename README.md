@@ -62,6 +62,10 @@ There are numerous factors and moving parts which must be taken into considerati
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/genre.png?raw=true)
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/studio%20(1).jpeg?raw=true)
 
+## Data Limitations
+* Data for the marketing budget of movies was not available, this could give us clearer insight on the ROI
+* Data insights on TV series and movie franchise data would be helpful to make recommendations for TV series and Movie franchises.
+* For our analysis, we have used data from various sources and linked them which resulted in filtering out a lot of data entries, reducing the robustness of our analysis. 
 
 ## CONCLUSION
 
