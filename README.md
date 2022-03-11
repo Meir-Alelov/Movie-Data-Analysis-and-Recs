@@ -47,8 +47,10 @@ There are numerous factors and moving parts which must be taken into considerati
 
 ### Description of data
 
-### Three visualizations (the same visualizations presented in the slides and notebook)
-
+### Visualisation
+![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboots.png?raw=true)
+![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboot_decades.png?raw=true)
+![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/genre.png?raw=true)
 
 
 ## CONCLUSION
