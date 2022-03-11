@@ -43,14 +43,24 @@ There are numerous factors and moving parts which must be taken into considerati
 
 ## DATA UNDERSTANDING AND ANALYSIS
 
-### Source of data
+#### **bom.movie_gross.csv**
+* **Source** : This [Box office mojo](https://www.boxofficemojo.com/) dataset was provided to us by Flatiron school. A compressed version of the data file is available in the project repo in the folder "zippedData"
+* **Contents** : Data about movies' domestic and international gross profit along with the name of studio production and release year
+#### **rotten_tomatoes_movies.csv**
+* **Source** : This RottenTomatoes dataset comes from [Kaggle](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_critic_reviews.csv)
+* **Contents** : Data about movies including their synopsis, rating, genre, director, writer, release data in theatre, release data on DVD, Box office rental profit, length of movie and studio of production.
+#### **tmdb.movies.csv**
+* **Source** : This dataset is provided to us by Flatiron school.A compressed version of the data file is available in the project repo in the folder "zippedData".
+* **Contents** : Data about movies' domestic and international gross profit along with the name of studio production and release year
+#### **tn.movie_budgets.csv**
+* **Source** : [The Number](https://www.the-numbers.com/) dataset is provided to us by Flatiron school.A compressed version of the data file is available in the project repo in the folder "zippedData".
+* **Contents** : Data about movies' production budget along with release date, domestic gross and worldwide gross
 
-### Description of data
-
-### Visualisation
+### Visualisations
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboots.png?raw=true)
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/Reboot_decades.png?raw=true)
 ![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/genre.png?raw=true)
+![alt text](https://github.com/hanis-z/HAM-project1/blob/main/Images/studio%20(1).jpeg?raw=true)
 
 
 ## CONCLUSION
