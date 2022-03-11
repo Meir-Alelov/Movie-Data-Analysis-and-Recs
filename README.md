@@ -86,15 +86,18 @@ Through analyzing popularity and ROI for specific genres, our findings show that
 
 Since Microsoft has no prior movie industry experience, and, therefore, no intellectual property of movies, they must acquire IP. 
 
- A budget tier system gives Microsoft a clear path to follow, based on their preferences. 
+A budget tier system gives Microsoft a clear path to follow in IP acquisition, based on their budgetary preferences. 
  
- The tiers are classified into High, Medium and Low that we acquired through statistical analysis of production costs of all movies in the last 20 years.
+The tiers are classified into High, Medium and Low. These figures were acquired through statistical analysis of production costs of all movies in the last 20 years.
 
-Once the genre has been decided, where would the stakeholder acquire their intellectual property necessary for a reboot that they don’t own the rights to? 
+Through further data analysis, we conclude that Microsoft should acquire their intellectual property from the following movie studios:
+Walt Disney, Buena Vista, Universal Pictures, Warner Brothers, 21st Century Fox, Paramount Pictures.
 
-Data analysis points us in the direction of specific movie studios, based on their associated value. 
+Fiscal data analysis points us in the direction of specific movie studios, based on their associated value. 
 
 **The more valuable a movie studio, the more expensive their IP is.**
+
+Furthermore, the most produced genres in our recommended studios allign with our genre popularity finding. 
 
 
 
